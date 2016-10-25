@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="DicePair.cs" />
     <Compile Include="Die.cs" />
+    <Compile Include="Probabilities.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
